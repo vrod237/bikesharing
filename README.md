@@ -16,7 +16,7 @@
   - <a href="https://www.citibikenyc.com/system-data" title="Citibike Data" rel="nofollow">Citibike Data</a>
   - <a href="https://www.census.gov/quickfacts/desmoinescityiowa" title="Des Moines Census" rel="nofollow">Des Moines Census</a>
   - <a href="https://www.catchdesmoines.com/things-to-do/" title="Des Moines Tourisim Website" rel="nofollow">Des Moines Tourisim Website</a>
-- Software: Visual Studio Code, 1.38.1, JavaScript, HTML5, CSS & D3.js
+- Software: Tableau
 
 ## Summary
 
