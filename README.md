@@ -12,8 +12,9 @@
 
 
 ## Resources
-- Data Source: [Earthquake Data](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson)
-- Data Source: [Fault Line Data](https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json)
+- Data Sources: 
+- <a href="https://www.census.gov/quickfacts/desmoinescityiowa" title="Des Moines Census" rel="nofollow">Des Moines Census</a>
+- <a href="https://www.catchdesmoines.com/things-to-do/" title="Des Moines Tourisim Website" rel="nofollow">Des Moines Tourisim Website</a>
 - Software: Visual Studio Code, 1.38.1, JavaScript, HTML5, CSS & D3.js
 
 ## Summary
