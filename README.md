@@ -20,8 +20,6 @@
 
 
 
-- What is the gender diversity of Des Moines? 
-
-- How does it compare to the gender diversity of New York City? 
-
-- What effect does it have on possible business in Des Moines?
+- What is the population of Des Moines? 
+- How does its population compare to the population of New York City? 
+- Does the population affect the number of people who will use the bike-sharing program?
