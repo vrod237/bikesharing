@@ -22,6 +22,9 @@
 
 
 
-- What is the population of Des Moines? 
-- How does its population compare to the population of New York City? 
-- Does the population affect the number of people who will use the bike-sharing program?
+### What is the population of Des Moines? 
+The population of Des Moines, Iowa is 214,237 per the population estimate from July 1st 2019. The 2010 census lists the population as 203,433; we should have an updated census soon but who knows how COVID-19 might affect the accuracy of it.
+### How does its population compare to the population of New York City? 
+### Does the population affect the number of people who will use the bike-sharing program?
+### Tourism in Des Moines
+### Weather
