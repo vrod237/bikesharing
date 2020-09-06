@@ -15,7 +15,7 @@ This is a summary of the analytic work that I did with the NYC Citi Bike data.
     3. <a href="https://www.catchdesmoines.com/things-to-do/" title="Des Moines Tourisim Website" rel="nofollow">Des Moines Tourisim Website</a><br>
     4. <a href="https://weatherspark.com/y/10312/Average-Weather-in-Des-Moines-Iowa-United-States-Year-Round" title="Des Moines Weather Data" rel="nofollow">Des Moines Weather Data</a><br>
     5. <a href="https://www.catchdesmoines.com/things-to-do/sports/amateur-and-pro/" title="Sports Teams in Des Moines" rel="nofollow">Sports Teams in Des Moines</a><br>
-    6. < href="https://www.iowadnr.gov/environmental-protection/air-quality/greenhouse-gas-emissions" title="Greenhouse Gas Emissions 2018" rel="nofollow">Greenhouse Gas Emissions 2018</a><br>
+    6. <a href="https://www.iowadnr.gov/environmental-protection/air-quality/greenhouse-gas-emissions" title="Greenhouse Gas Emissions 2018" rel="nofollow">Greenhouse Gas Emissions 2018</a><br>
 - Software: Tableau
 
 
