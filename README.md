@@ -9,11 +9,11 @@ This is a summary of the analytic work that I did with the NYC Citi Bike data.
 - Create a Tableau story based on starting a bike-sharing company in Des Moines.
 
 ## Resources
-- Data Sources: 
- - 1 <a href="https://www.citibikenyc.com/system-data" title="Citibike Data" rel="nofollow">Citibike Data</a>
- - 2 <a href="https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,desmoinescityiowa#" title="Des Moines/New York City Census" rel="nofollow">Des Moines/New York City Census</a>
- - 3 <a href="https://www.catchdesmoines.com/things-to-do/" title="Des Moines Tourisim Website" rel="nofollow">Des Moines Tourisim Website</a>
- - 4 <a href="https://weatherspark.com/y/10312/Average-Weather-in-Des-Moines-Iowa-United-States-Year-Round" title="Des Moines Weather Data"</a>
+- Data Sources: <br>
+    1 <a href="https://www.citibikenyc.com/system-data" title="Citibike Data" rel="nofollow">Citibike Data</a><br>
+    2 <a href="https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,desmoinescityiowa#" title="Des Moines/New York City Census" rel="nofollow">Des Moines/New York City Census</a><br>
+    3 <a href="https://www.catchdesmoines.com/things-to-do/" title="Des Moines Tourisim Website" rel="nofollow">Des Moines Tourisim Website</a><br>
+ -  4 <a href="https://weatherspark.com/y/10312/Average-Weather-in-Des-Moines-Iowa-United-States-Year-Round" title="Des Moines Weather Data"</a><br>
 - Software: Tableau
 
 
