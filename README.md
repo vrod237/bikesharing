@@ -15,6 +15,7 @@ This is a summary of the analytic work that I did with the NYC Citi Bike data.
     3. <a href="https://www.catchdesmoines.com/things-to-do/" title="Des Moines Tourisim Website" rel="nofollow">Des Moines Tourisim Website</a><br>
     4. <a href="https://weatherspark.com/y/10312/Average-Weather-in-Des-Moines-Iowa-United-States-Year-Round" title="Des Moines Weather Data" rel="nofollow">Des Moines Weather Data</a><br>
     5. <a href="https://www.catchdesmoines.com/things-to-do/sports/amateur-and-pro/" title="Sports Teams in Des Moines" rel="nofollow">Sports Teams in Des Moines</a><br>
+    6. < href="https://www.iowadnr.gov/environmental-protection/air-quality/greenhouse-gas-emissions" title="Greenhouse Gas Emissions 2018" rel="nofollow">Greenhouse Gas Emissions 2018</a><br>
 - Software: Tableau
 
 
@@ -36,5 +37,8 @@ Des Moines already has a bike program available for tours around the city, which
 ## Weather
 The hot season lasts for 3.8 months from May 24th to September 18th with an average daily temperature above 76 degrees (Ref iv). The cold season lasts for 3 months from November 27th to February 29th with an average daily temperature below 43 degrees (Ref iv). Outside of the cold season, weather allows for comfortable biking 9 months out of the year. But with commutes being shorter than NYC, Des Moinesians might be willing to ride in the cold weather for 19 minutes as opposed to over 40 minutes.
 
+## Transportation
+By implementing the Bike Sharing Program in Des Moines, this can help draw attention to the company. Instead of us reaching out to cities, cities may soon be reaching out to us. The program would reduce dependence on current public auto transportation as well as reduce gas emissions resulting in an eco-friendly option for transportation. Per 2018 numbers, transportation contrtibuted to 15% of total greenhouse gas emissions for Des Moines (Ref vi) bringing that down to under 10% would decrease outdoor air pollution which in turn would reduce premature deaths from poor air quailty.
+
 ## Conclusion
-The bike sharing program would be relatively inexpensive and an easy-to-implement transportation option that can deliver a variety of benefits for Des Moines City. Due to the bike touring program, the city already has an abundance of bike lanes available for our bikes. However, it snows in Des Moines, during the winter, so it would be helpful to obtain some data regarding bike usage in New York City during the winter period. Although, the overall profit may not be as high as New York City, there is a strong potential for subscribers to make this a success in Des Moines.
+The bike sharing program would be relatively inexpensive and an easy-to-implement transportation option that can deliver a variety of benefits for Des Moines City. Due to the bike touring program, the city already has an abundance of bike lanes available for our bikes. However, it snows in Des Moines, during the winter, so it would be helpful to obtain some data regarding bike usage in New York City during the winter period. Although, the overall profit may not be as high as New York City, the market is strong potential for subscribers to make this a success in Des Moines.
