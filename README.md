@@ -1,9 +1,7 @@
 # NYC Citi Bike Analysis 
 This is a summary of the analytic work that I did with the NYC Citi Bike data.
 
-
-
-[link to dashboard](LINK GOES HERE "https://public.tableau.com/profile/victor8111#!/vizhome/module_15994511228580/Story2?publish=yes")
+<a href="https://public.tableau.com/profile/victor8111#!/vizhome/module_15994511228580/Story2?publish=yes" title="Link to Dashboard" rel="nofollow">Link to Dashboard</a><br>
 
 ## Project Objectives
 
