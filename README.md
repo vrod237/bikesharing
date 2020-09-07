@@ -32,6 +32,9 @@ As mentioned above, a smaller population will result in fewer people using the b
 
 In terms of relative population, the population demographics suggest that Des Moines will have a higher percentage of population that use the bike sharing program compared to New York City. 
 
+## Age Usage
+After observing the positive growth rate of Des Moines, there's a higher percentage of population under 18 compared to New York. We can predict that bike rentals will increase over time as this population ages into our peak rental age range of 19 years to 37 years. Based on the population statistics, investing in Des Moines citi bike sharing will have a similar success initially, and potentially become more successful to New York city over time.
+
 ## Tourism in Des Moines
 Des Moines already has a bike program available for tours around the city, which averages 40,000 rides a month (Ref iii). By adding the bike sharing program, this will allow the riders to use the bikes for methods outside of touring in addition to taking their own scenic routes around the city. With the bike tour being such a success, in addition to proving to be an great mode of transportation; adding the bike sharing program could be a great success. Also, as the capitol of Iowa, it has a various amount of minor league sports teams (Ref v) and also a number of popular tourist attractions (Ref iii).
 
