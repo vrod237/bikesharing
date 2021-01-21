@@ -1,5 +1,11 @@
 # NYC Citi Bike Analysis 
-This is a summary of the analytic work that I did with the NYC Citi Bike data.
+
+## Purpose
+
+The purpose of this analysis is to determine if Citibike would be successful in Des Moines, IA. We saw the success of Citibike in New York City and wanted to bring it to our city. We will look at a few different factors to determine the viability of the venture.
+
+## Summary
+This is a summary of the analytic work that I did with the NYC Citi Bike data via Tableau
 
 <a href="https://public.tableau.com/profile/victor8111#!/vizhome/module_15994511228580/Story2?publish=yes" title="Link to Dashboard" rel="nofollow">Link to Dashboard</a><br>
 
